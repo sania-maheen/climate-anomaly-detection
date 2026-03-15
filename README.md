@@ -127,7 +127,7 @@ Both models are evaluated using:
 
 ---
 
-# 🔍 Explainable AI (XAI)
+# Explainable AI (XAI)
 
 Understanding why models make predictions is important in climate analysis.
 
